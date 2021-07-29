@@ -4,7 +4,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.math.BigInteger;
  
- 
+ /**
+ * @author Mustansir
+ *
+ */
 public class ClassName {
  
 public static void main(String[] args)throws IOException {
